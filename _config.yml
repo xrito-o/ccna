@@ -1,0 +1,17 @@
+title: CCNA
+description: A CCNA Documentation.
+remote_theme: just-the-docs/just-the-docs
+plugins:
+  - jekyll-remote-theme
+
+url: "https://xrito-o.github.io"  # No trailing slash
+baseurl: "/ccna"                   # The subfolder name, starts with /
+
+
+
+aux_links:
+  Github Repository: https://github.com/xrito-o/ccna/
+
+color_scheme: dark
+
+includes_dir: _includes
